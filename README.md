@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy David Azpilicueta
 
-<!--
-**Davidazpilicueta/Davidazpilicueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduado en Desarrollo de Aplicaciones Web (DAW).
+Me apasiona construir aplicaciones web limpias y funcionales.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- **Backend:** PHP, Laravel
+- **Frontend:** HTML, CSS, JavaScript, Blade
+- **Base de datos:** SQLite, PostgreSQL
+- **Herramientas:** Git, Vite, Composer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- 🏠 [IberPiso](https://github.com/Davidazpilicueta/IBERPISO) — Aplicación web de gestión de inmuebles con Laravel
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/david-azpilicueta-/) · [Email](mailto:Davidazpilicueta9@gmail.com)
